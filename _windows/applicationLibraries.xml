@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://D:/FHMYSQL/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/FHMYSQL/lib" recursive="false" />
+    </library>
+  </component>
+</application>
