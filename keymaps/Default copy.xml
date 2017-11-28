@@ -1,8 +1,1 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="NewClass">
-    <keyboard-shortcut first-keystroke="shift n" second-keystroke="shift c" />
-  </action>
-  <action id="NewDir">
-    <keyboard-shortcut first-keystroke="shift n" second-keystroke="shift p" />
-  </action>
-</keymap>
+<keymap version="1" name="Default copy" parent="$default" />
