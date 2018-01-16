@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".encodings" type="PLAIN_TEXT" />
       <mapping pattern="Himmelt" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
