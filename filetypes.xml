@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="??_??.lang" type="HOCON" />
       <mapping pattern="mcmod.info" type="JSON" />
-      <mapping pattern="Himmelt" type="PLAIN_TEXT" />
       <mapping pattern=".encodings" type="PLAIN_TEXT" />
+      <mapping pattern="Himmelt" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
