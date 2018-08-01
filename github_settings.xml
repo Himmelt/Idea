@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="Himmelt" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="9b0f0ae4-1016-4aef-96b9-5d414bee5613" name="Himmelt">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
