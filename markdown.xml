@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetUri="jar:file:/C:/Users/Himmelt/.IdeaIC2018.2/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
     <MarkdownPreviewSettings UseGrayscaleRendering="true" />
   </component>
 </application>
