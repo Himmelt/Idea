@@ -1,0 +1,9 @@
+<keymap version="1" name="MyKeyMap" parent="$default">
+  <action id="tasks.switch" />
+  <action id="uuidgenerator.random">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+  </action>
+  <action id="uuidgenerator.toggle-dashes">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+</keymap>
