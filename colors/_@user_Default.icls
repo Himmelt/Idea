@@ -1,28 +1,28 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.5" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-04-09T18:05:42</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.1.0.0</property>
-    <property name="modified">2017-12-03T10:59:08</property>
+    <property name="modified">2018-12-02T23:30:46</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Sarasa Mono SC" />
-    <option name="EDITOR_FONT_SIZE" value="21" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Sarasa UI SC" />
-    <option name="EDITOR_FONT_SIZE" value="21" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Sarasa Mono SC" />
-    <option name="EDITOR_FONT_SIZE" value="21" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Sarasa UI SC" />
-    <option name="EDITOR_FONT_SIZE" value="21" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
 </scheme>
