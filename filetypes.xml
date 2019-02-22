@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="mcmod.info" type="JSON" />
       <mapping pattern="Himmelt" type="PLAIN_TEXT" />
       <mapping pattern=".encodings" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <removed_mapping pattern="??_??.lang" approved="true" type="HOCON" />
     </extensionMap>
   </component>
