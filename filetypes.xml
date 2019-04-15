@@ -7,6 +7,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="srg" type="PLAIN_TEXT" />
       <removed_mapping pattern="??_??.lang" approved="true" type="HOCON" />
     </extensionMap>
   </component>
